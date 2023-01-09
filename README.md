@@ -6,13 +6,13 @@ This mod allows rebalance Marketing of your games.
 <br>
 For now, the following these settings can be adjusted.<br>
 <br>
-<Basic Settings>
+# [Basic Settings]
 1. Maximum hype limit each ads type.
 2. Add hype each ads type.
 3. Work Points(Workspeed) each ads type. *The more, the more time to put ads.
 4. Price each ads type.
 
-<Additional Settings>
+# [Additional Settings]
 1. Maximum Hype Limit *Original hype limit is 100, but now you CAN adjust it!
 2. Border line of Bombastic advertisement
 3. Customized Overhype <br>
