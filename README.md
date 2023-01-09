@@ -42,7 +42,7 @@ For now, the following these settings can be adjusted.<br>
 <br>After extract zip, Drag and Drop all of files your MGT2 folder(in the same place with Games Tycoon 2.exe.)
 
 3. Install My mod of Marketing-Rebalancer. 
-<br>
+<br>https://github.com/Aerin-the-Lion/Marketing-Rebalancer/releases
 <br>After extract zip, Drag and Drop all of files your MGT2 folder(in the same place with Games Tycoon 2.exe.)
 
 # [Compatible version]
