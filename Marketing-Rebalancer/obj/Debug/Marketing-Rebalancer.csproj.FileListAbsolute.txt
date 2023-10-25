@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\Marketing-Rebalancer.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\Marketing-Rebalancer.pdb
+C:\Users\admin\Documents\C#_Tool\Marketing-Rebalancer\Marketing-Rebalancer\obj\Debug\Marketing-Rebalancer.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\Marketing-Rebalancer\Marketing-Rebalancer\obj\Debug\Marketing-Rebalancer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#_Tool\Marketing-Rebalancer\Marketing-Rebalancer\obj\Debug\Marketing-Rebalancer.dll
+C:\Users\admin\Documents\C#_Tool\Marketing-Rebalancer\Marketing-Rebalancer\obj\Debug\Marketing-Rebalancer.pdb
